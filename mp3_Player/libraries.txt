@@ -1,0 +1,15 @@
+
+-- Libraries needed --
+tkinter
+
+-- Install by --
+pip install tkinter
+
+-- If on linux --
+pip3 install tkinter
+
+-- Run by --
+python tkinter
+
+-- If on Linux --
+python3 tkinter
